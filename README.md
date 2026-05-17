@@ -15,6 +15,6 @@ Click **[New Issue](../../issues/new)** and include:
   - Why it would improve the mod
  
     ## Links
-    - [CurseForge Page](#)
+    - [CurseForge Page](https://legacy.curseforge.com/minecraft/mc-mods/afterdeath)
     - [Modrinth Page](https://modrinth.com/mod/afterdeath)
       
