@@ -15,6 +15,6 @@ Click **[New Issue](../../issues/new)** and include:
   - Why it would improve the mod
  
     ## Links
-    - [CurseForge Page](#) *(coming soon)*
-    - [Modrinth Page](#) *(coming soon)*
+    - [CurseForge Page](#)
+    - [Modrinth Page](https://modrinth.com/mod/afterdeath)
       
