@@ -9,12 +9,12 @@ Click **[New Issue](../../issues/new)** and include:
 - Your Minecraft version and mod version
 - Steps to reproduce
 
-  ## How to Request a Feature
-  Click **[New Issue](../../issues/new)** and describe:
-  - What feature you'd like
-  - Why it would improve the mod
+## How to Request a Feature
+Click **[New Issue](../../issues/new)** and describe:
+- What feature you'd like
+- Why it would improve the mod
  
-    ## Links
-    - [CurseForge Page](https://www.curseforge.com/minecraft/mc-mods/afterdeath)
-    - [Modrinth Page](https://modrinth.com/mod/afterdeath)
+## Links
+- [CurseForge Page](https://www.curseforge.com/minecraft/mc-mods/afterdeath)
+- [Modrinth Page](https://modrinth.com/mod/afterdeath)
       
